@@ -1,0 +1,5 @@
+git add -A
+git commit -m (viesti)
+git push
+
+workflow alkaa automaattisesti kestää noin 40s
